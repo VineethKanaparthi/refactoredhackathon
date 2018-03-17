@@ -26,7 +26,7 @@ The 5 cell format was a ipython notebook restriction wherein the total project c
 
 
 ## Hackathon Name: JNTUH Data Science Hackathon organised by Colaberry and Infogex
-### To run our ipython book, make sure to have:
+### To run our ipython book, make sure you have:
 * Jupyter Notebooks
 * Seaborn
 * Pandas
